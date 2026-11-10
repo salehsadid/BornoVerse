@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Sazzad14802/BanglaAudiobook/actions/workflows/ci.yml/badge.svg)](https://github.com/Sazzad14802/BanglaAudiobook/actions/workflows/ci.yml)
 
-A mono-repo containing the core services of the **BornoVerse** community-driven audiobook platform.
+A mono-repo containing the core services of the **BornoVerse** community-driven audiobook platform
 
 ```
 BornoVerse/
